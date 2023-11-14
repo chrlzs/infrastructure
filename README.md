@@ -46,13 +46,7 @@
    - Description: Secondary network switch.
    - Connection: [Placeholder]
 
-3: Server: Dell (Winserver 01)
-   - Description: [Placeholder]
-   - OS: [Placeholder]
-   - Roles: [Placeholder]
-   - Connection: [Placeholder]
-
-4: Server: Dell (Winserver 02)
+3, 4: Server: Dell (Winserver 01)
    - Description: [Placeholder]
    - OS: [Placeholder]
    - Roles: [Placeholder]
