@@ -39,11 +39,11 @@
 ### Powerstrip - Model: Kleen
 
 1: Switch - Trendnet Teg-5916Dg
-   - Description: Main network switch.
+   - Description: Secondary network switch.
    - Connection: [Placeholder]
 
 2: Switch - Juniper ex2200
-   - Description: Secondary network switch.
+   - Description: Main network switch.
    - Connection: [Placeholder]
 
 3, 4: Server: Dell (Winserver 01)
