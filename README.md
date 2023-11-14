@@ -1,28 +1,75 @@
-# infrastructure
-Technology infrastructure documentation
+# Technology Infrastructure Documentation
 
-#Server Rack (main)
+## Server Rack (Main)
 
-Powerstrip - Model: PDBC10
+### Powerstrip - Model: PDBC10
 
 1: Cable Modem
-2: Eero 6 Pro
-3: Raspberry Pi (PiHole)
-4: Cisco ASA
-5: NAS (lil NAS)
-6: not used
-7: not used
-8: NAS (NAS boy)
+   - Description: Internet gateway device.
+   - Connection: [Placeholder]
 
-Powerstrip - Model: Kleen
+2: Eero 6 Pro
+   - Description: Home Wi-Fi router.
+   - Connection: [Placeholder]
+
+3: Raspberry Pi (PiHole)
+   - Description: Ad-blocking DNS server.
+   - Connection: [Placeholder]
+
+4: Cisco ASA
+   - Description: Firewall and network security appliance.
+   - Connection: [Placeholder]
+
+5: NAS (lil NAS)
+   - Description: Network-attached storage for personal files.
+   - Connection: [Placeholder]
+
+6: [Placeholder]
+   - Description: [Placeholder]
+   - Connection: [Placeholder]
+
+7: [Placeholder]
+   - Description: [Placeholder]
+   - Connection: [Placeholder]
+
+8: NAS (NAS boy)
+   - Description: Another NAS for additional storage needs.
+   - Connection: [Placeholder]
+
+### Powerstrip - Model: Kleen
 
 1: Switch - Trendnet Teg-5916Dg
-2: Switch  - Juniper ex2200
+   - Description: Main network switch.
+   - Connection: [Placeholder]
+
+2: Switch - Juniper ex2200
+   - Description: Secondary network switch.
+   - Connection: [Placeholder]
+
 3: Server: Dell (Winserver 01)
-4: Server: Dell (Winserver 01)
-5: not used
-6: not used
-7: not used
-8: not used
+   - Description: [Placeholder]
+   - OS: [Placeholder]
+   - Roles: [Placeholder]
+   - Connection: [Placeholder]
 
+4: Server: Dell (Winserver 02)
+   - Description: [Placeholder]
+   - OS: [Placeholder]
+   - Roles: [Placeholder]
+   - Connection: [Placeholder]
 
+5: [Placeholder]
+   - Description: [Placeholder]
+   - Connection: [Placeholder]
+
+6: [Placeholder]
+   - Description: [Placeholder]
+   - Connection: [Placeholder]
+
+7: [Placeholder]
+   - Description: [Placeholder]
+   - Connection: [Placeholder]
+
+8: [Placeholder]
+   - Description: [Placeholder]
+   - Connection: [Placeholder]
