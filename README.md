@@ -24,7 +24,7 @@
    - Description: Network-attached storage for personal files.
    - Connection: [Placeholder]
 
-6: [Placeholder]
+6: Zigbee Hub
    - Description: [Placeholder]
    - Connection: [Placeholder]
 
