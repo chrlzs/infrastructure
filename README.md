@@ -25,7 +25,8 @@
    - Connection: [Placeholder]
 
 6: Zigbee Hub
-   - Description: [Placeholder]
+   - Description: Hub for Zigbee smart home devices.
+     - Manages and controls Zigbee-compatible devices such as smart lights, sensors, and switches.
    - Connection: [Placeholder]
 
 7: [Placeholder]
