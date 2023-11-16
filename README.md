@@ -53,7 +53,7 @@
    - Roles: [Placeholder]
    - Connection: [Placeholder]
 
-5: [Placeholder]
+5: TP-Link Managed Switch
    - Description: [Placeholder]
    - Connection: [Placeholder]
 
