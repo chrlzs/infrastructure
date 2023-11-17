@@ -6,11 +6,11 @@
 
 1: Cable Modem
    - Description: Internet gateway device.
-   - Connection: [Placeholder]
+   - Connection: Eero 6 Pro
 
 2: Eero 6 Pro
    - Description: Home Wi-Fi router.
-   - Connection: [Placeholder]
+   - Connection: Rapink Patch 01 > Juniper 00
 
 3: Raspberry Pi (PiHole)
    - Description: Ad-blocking DNS server.
