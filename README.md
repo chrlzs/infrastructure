@@ -29,7 +29,7 @@
      - Manages and controls Zigbee-compatible devices such as smart lights, sensors, and switches.
    - Connection: [Placeholder]
 
-7: [Placeholder]
+7: Bottom rack PSU
    - Description: [Placeholder]
    - Connection: [Placeholder]
 
