@@ -10,61 +10,53 @@
 
 2: Eero 6 Pro
    - Description: Home Wi-Fi router.
-   - Connection: Rapink Patch 01 > Juniper 00
+   - Connection: Rapink Patch (RP) 01 > Juniper (J) 00
 
 3: Raspberry Pi (PiHole)
    - Description: Ad-blocking DNS server.
-   - Connection: [Placeholder]
+   - Connection: RP05 > J08
 
 4: Cisco ASA
    - Description: Firewall and network security appliance.
-   - Connection: [Placeholder]
+   - Connection: RP06 > J12
 
 5: NAS (lil NAS)
    - Description: Network-attached storage for personal files.
-   - Connection: [Placeholder]
+   - Connection: RP04 > J06
 
 6: Zigbee Hub
    - Description: Hub for Zigbee smart home devices.
      - Manages and controls Zigbee-compatible devices such as smart lights, sensors, and switches.
-   - Connection: [Placeholder]
+   - Connection: RP06 > J10
 
 7: Bottom rack PSU
-   - Description: [Placeholder]
-   - Connection: [Placeholder]
+   - Description: 6 port PSU
+   - Connection:  N/A
 
 8: NAS (NAS boy)
    - Description: Another NAS for additional storage needs.
-   - Connection: [Placeholder]
+   - Connection: RP03 > J04
 
 ### Powerstrip - Model: Kleen
 
 1: Switch - Trendnet Teg-5916Dg
-   - Description: Secondary network switch.
-   - Connection: [Placeholder]
+   - Description: Network switch.
+   - Connection: Not Used
 
 2: Switch - Juniper ex2200
    - Description: Main network switch.
-   - Connection: [Placeholder]
+   - Connection: N/A
 
 3, 4: Server: Dell (Winserver 01)
    - Description: [Placeholder]
    - OS: [Placeholder]
    - Roles: [Placeholder]
-   - Connection: [Placeholder]
+   - Connection: 
 
 5: TP-Link Managed Switch
-   - Description: [Placeholder]
-   - Connection: [Placeholder]
+   - Description: Managed Network Switch
+   - Connection: Not Used
 
-6: [Placeholder]
-   - Description: [Placeholder]
-   - Connection: [Placeholder]
-
-7: [Placeholder]
-   - Description: [Placeholder]
-   - Connection: [Placeholder]
-
-8: [Placeholder]
-   - Description: [Placeholder]
-   - Connection: [Placeholder]
+6: Lightify Hub
+   - Description: Light Controller
+   - Connection: Kitchen cabinet lighting
