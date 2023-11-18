@@ -60,3 +60,8 @@
 6: Lightify Hub
    - Description: Light Controller
    - Connection: Kitchen cabinet lighting
+
+### 48-port Juniper Switch (J48)
+   - Description: High-density network switch with 48 ports.
+     - Used for connecting various devices in the network.
+   - Connection: [Placeholder]
