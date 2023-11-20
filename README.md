@@ -64,4 +64,10 @@
 ### 48-port Juniper Switch (J48)
    - Description: High-density network switch with 48 ports.
      - Used for connecting various devices in the network.
-   - Connection: [Placeholder]
+   - Connections:
+        - [0]
+        - [1]
+        - [2]
+        - [4]
+        - [5]
+        - [6]
