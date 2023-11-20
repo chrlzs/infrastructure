@@ -65,9 +65,12 @@
    - Description: High-density network switch with 48 ports.
      - Used for connecting various devices in the network.
    - Connections:
-        - [0]
-        - [1]
-        - [2]
-        - [4]
-        - [5]
-        - [6]
+        - [0] Eero Pro 6
+        - [1] Windows PC (core)
+        - [2] NASboy
+        - [4] lil NAS
+        - [5] Raspberry PI
+        - [6] Zigbee
+        - [7] Cisco ASA
+        - [8] XBox One S
+        - [22] Google Voice
